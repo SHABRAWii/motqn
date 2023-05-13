@@ -1,7 +1,7 @@
 {
   "name": "motqn",
   "version": "0.1.0",
-  "homepage": "https://motqn.us.to",
+  "homepage": "https://shabrawii.github.io/motqn",
   "private": true,
   "dependencies": {
     "@fontsource/inter": "^4.5.15",
